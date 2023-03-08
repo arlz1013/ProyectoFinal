@@ -1,9 +1,5 @@
-
-
-
-{
-    "type": "module",
-    "Tema1 ": {
+Temas([
+    {
         "NombreTema": "Internet de las Cosas",
 
         "WhatisThis": "El Internet de las cosas (IoT) es el proceso que permite conectar los elementos físicos cotidianos al Internet: desde los objetos domésticos comunes, como las bombillas de luz, hasta los recursos para la atención de la salud, como los dispositivos médicos; las prendas y los accesorios personales inteligentes; e incluso los sistemas de las ciudades inteligentes. Los dispositivos del IoT que se encuentran dentro de esos objetos físicos suelen pertenecer a una de estas dos categorías: son interruptores (es decir, envían las instrucciones a un objeto) o son sensores (recopilan los datos y los envían a otro lugar).",
@@ -19,7 +15,7 @@
             "Desventajas del internet de las cosas: <br> La información no se encuentra cifrada: Una de las principales desventajas que ofrece el IoT es que la información no está cifrada y, en consecuencia, resulta muy sencillo acceder a ella. Esto puede implicar problemas relacionados con la seguridad digital, ya que el sistema podría ser hackeado. Por ejemplo, para el robo de datos. Requiere de una inversión previa en tecnología: Otra de las desventajas del IoT es que requiere una inversión previa para que pueda funcionar. Es decir, necesitamos adquirir los dispositivos con la tecnología necesaria para que se puedan conectar a Internet. Reducción de la intimidad: Otro de los problemas que puede llegar a plantear el uso de objetos con tecnología IoT es la reducción de la intimidad. Estos dispositivos abren espacios privados al espacio público, por lo que pueden llegar a plantearse problemas serios en este sentido. Por ejemplo, mediante la instalación de sistemas de seguridad como cámaras de vigilancia que no sean usadas de forma correcta. Brecha tecnológica: Así mismo, otra de las desventajas que plantea el uso de la tecnología IoT es que profundiza en la brecha digital. Es decir, el problema de qué personas sí que pueden acceder a esta tecnología y cuáles no. Esto es especialmente notable cuando se compara el acceso a Internet entre distintos países, así como entre entornos urbanos y el medio rural. Falta de compatibilidad: Finalmente, otra de las principales desventajas de la tecnología IoT es la falta de compatibilidad entre algunos dispositivos. Los sistemas IoT no están estandarizados y, en consecuencia, se podría dar el caso en el que determinados dispositivos no puedan trabajar de forma conjunta entre sí a pesar de estar diseñados para la misma función."
         ]
     },
-    "Tema2": {
+    {
         "NombreTema": "Computacion de la Nube",
 
         "WhatisThis": "None data(Whstisthis)",
@@ -35,7 +31,7 @@
             "DatasAdd[3] (Aplicaciones)"
         ]
     },
-    "Tema3": {
+    {
         "NombreTema": "Convergencia Digital",
 
         "WhatisThis": "None data(Whstisthis)",
@@ -51,7 +47,8 @@
             "DatasAdd[3] (Desventajas)"
         ]
     }
-}
+
+])
 
 
 
