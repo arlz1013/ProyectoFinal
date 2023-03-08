@@ -1,41 +1,168 @@
-body{
-	background-color: #34495e;
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+html body {
+	font-family: "Lucida Console", Courier, monospace;
+	line-height: 1.7em;
+
+}
+a {
+	text-decoration: none;
+
+}
+/*start nabar section*/
+.cotainar {
+	width: 1200px;
+	margin: auto;
+	overflow: auto;
+	padding: 10px 0px;
+
+
+
+}
+.navbar {
+	background-color: white ;
+	height: 70px;
+	width: 100%;
+
+}
+.cotainar h1 a {
+	float: left;
+	padding-left:  300px;
+	padding-top: 20px;
+color: #1f472a ;
+font-size: 1.5em;
+
+}
+.cotainar ul {
+	list-style: none;
+	padding-top:  20px;
+	padding-right: 50px;
+	padding-left: 50px;
+
+	float: right;
+}
+.cotainar ul li {
+	float: left;
+		position: relative;
+right:  355px;
+font-size: 14px;
 	
 }
-
-.page-content{
-	background-color: #2c3e50;
-	border-radius: 10px;
-	margin: 2% 5% 0% 5%;
+.cotainar ul li a {
+	color: #36363b ; 
+	padding-left: 10px;
+	padding-right: 10px;
+	font-style: bold;
 }
+/*end nabar section*/
 
-#top-title{
+/*start background section*/
+.background {
+	background-color: #1f472a;
+	background-repeat: no-repeat;
+	background-size: cover; 
+	background-size: 100% 100%;
+	height: 400px;
+	text-align: center;
+
+    
+
+}
+.background h1 {
+	padding-top :100px;
+ font-size: 50px;
+ color: white;
+ line-height: 1.5em;
+
+
+}
+.background p {
+	font-size: 10px;
+	width: 33.3%;
+	position: relative;
+	left: 450px;
 	color: white;
-	padding: 2% 0% 0% 0%;
+	opacity: 0.5;
+	line-height: 1.3em;
+	padding-bottom: 20px;
 }
+/*start background section*/
 
-hr { 
-    display: block;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
-    margin-left: auto;
-    margin-right: auto;   
+/*start section section*/
+.button-back {
+
+	background-color: #12a342;
+    padding: 12.5px 17px;
+    margin-top: 20px;
 }
-
-.white{
-   color: white;
-   margin: 2% 0% 2% 0%;
-   max-width: 80%;
-   text-align: center;
-
-}
-
-.Source{
-	color: #95a5a6;
-
-}
-
-.Source:hover{
+.button-back a {
 	color: white;
-
+	font-size: 9px;
 }
+.second {
+		
+        padding-top: 40px;
+        text-align: center;
+  }
+  .second h2 {
+  	color: #195c2f;
+  	padding-bottom: 12px;
+  }
+  .second p {
+          width: 33.3%;
+  		position: relative;
+  		left: 450px;
+  		font-size: 12px;
+  		line-height: 1em;
+  		}
+
+/*end section section*/
+
+
+/*start end section*/
+  	
+  .end {
+  	margin: 40px 100px;
+    padding: 15px;
+    
+  }
+.content {
+	 width: 33.3333%;
+}
+.content h3 {
+	  display: inline-block;
+    margin: 5px;
+    color: #195c2f;
+}
+.content p {
+  padding: 15px 35px;
+  font-size: 12px;
+}
+
+   
+  .box {
+  	
+    float: left;
+    padding: 30px;
+    line-height: 1em;
+  	
+
+  }
+  .box1 {
+   float: left;
+    padding: 30px;
+    line-height: 1em;
+ 
+  }
+  .box2 {
+  	 float: left;
+    padding: 30px;
+    line-height: 1em;
+  	
+  }
+
+/*end end section*/
