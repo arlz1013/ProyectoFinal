@@ -25,7 +25,7 @@ a {
 }
 .navbar {
 	background-color: white ;
-	height: 70px;
+	height: 8%;
 	width: 100%;
 
 }
@@ -33,23 +33,22 @@ a {
 	float: left;
 	padding-left:  300px;
 	padding-top: 20px;
-color: #1f472a ;
-font-size: 1.5em;
+	color: #1f472a ;
+	font-size: 1.5em;
 
 }
 .cotainar ul {
 	list-style: none;
 	padding-top:  20px;
-	padding-right: 50px;
+	padding-right: 0px;
 	padding-left: 50px;
-
 	float: right;
 }
 .cotainar ul li {
 	float: left;
-		position: relative;
-right:  355px;
-font-size: 14px;
+	position: relative;
+	right:  9%;
+	font-size: 14px;
 	
 }
 .cotainar ul li a {
@@ -66,7 +65,7 @@ font-size: 14px;
 	background-repeat: no-repeat;
 	background-size: cover; 
 	background-size: 100% 100%;
-	height: 400px;
+	height: auto;
 	text-align: center;
 
     
@@ -74,17 +73,18 @@ font-size: 14px;
 }
 .background h1 {
 	padding-top :100px;
- font-size: 50px;
- color: white;
- line-height: 1.5em;
+ 	font-size: 50px;
+ 	color: white;
+ 	line-height: 1.5em;
 
 
 }
 .background p {
-	font-size: 10px;
-	width: 33.3%;
+	font-size: 16px;
+	width: 50%;
 	position: relative;
-	left: 450px;
+	left: 25%;
+	right: 25%;
 	color: white;
 	opacity: 0.5;
 	line-height: 1.3em;
@@ -103,19 +103,19 @@ font-size: 14px;
 	color: white;
 	font-size: 9px;
 }
-.second {
-		
-        padding-top: 40px;
-        text-align: center;
+.second {	
+	padding-top: 40px;
+	text-align: center;
   }
   .second h2 {
   	color: #195c2f;
   	padding-bottom: 12px;
   }
   .second p {
-          width: 33.3%;
+		width: 33%;
   		position: relative;
-  		left: 450px;
+  		left: 33%;
+
   		font-size: 12px;
   		line-height: 1em;
   		}
