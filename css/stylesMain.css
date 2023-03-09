@@ -110,14 +110,20 @@ a {
   .second h2 {
   	color: #195c2f;
   	padding-bottom: 12px;
+	width: 33%;
+	position: relative;
+	left: 33%;
+	line-height: 1em;
+	padding: 7px;
+
   }
   .second p {
 		width: 33%;
   		position: relative;
   		left: 33%;
-
   		font-size: 12px;
   		line-height: 1em;
+		padding: 7px;
   		}
 
 /*end section section*/
@@ -128,6 +134,7 @@ a {
   .end {
   	margin: 40px 100px;
     padding: 15px;
+	
     
   }
 .content {
@@ -150,6 +157,9 @@ a {
     float: left;
     padding: 30px;
     line-height: 1em;
+	border: 2px solid #12a342;
+	border-radius: 12px;
+	margin-bottom: 1%;
 	
   	
 
@@ -158,12 +168,18 @@ a {
    float: left;
     padding: 30px;
     line-height: 1em;
+	border: 2px solid #12a342;
+	border-radius: 12px;
+	margin-bottom: 1%;
  
   }
   .box2 {
   	 float: left;
     padding: 30px;
     line-height: 1em;
+	border: 2px solid #12a342;
+	border-radius: 12px;
+	margin-bottom: 1%;
   	
   }
 
