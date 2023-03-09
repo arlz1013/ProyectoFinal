@@ -132,9 +132,10 @@ a {
   }
 .content {
 	 width: 33.3333%;
+	 background-color: none;
 }
 .content h3 {
-	  display: inline-block;
+	display: inline-block;
     margin: 5px;
     color: #195c2f;
 }
@@ -149,6 +150,7 @@ a {
     float: left;
     padding: 30px;
     line-height: 1em;
+	
   	
 
   }
