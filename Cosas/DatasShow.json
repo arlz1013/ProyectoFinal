@@ -1,0 +1,50 @@
+{
+    "Tema1 ": {
+        "NombreTema": "Internet de las Cosas",
+
+        "WhatisThis": "El Internet de las cosas (IoT) es el proceso que permite conectar los elementos físicos cotidianos al Internet: desde los objetos domésticos comunes, como las bombillas de luz, hasta los recursos para la atención de la salud, como los dispositivos médicos; las prendas y los accesorios personales inteligentes; e incluso los sistemas de las ciudades inteligentes. Los dispositivos del IoT que se encuentran dentro de esos objetos físicos suelen pertenecer a una de estas dos categorías: son interruptores (es decir, envían las instrucciones a un objeto) o son sensores (recopilan los datos y los envían a otro lugar).",
+
+        "DatasAdd" : 
+        [
+            "El término IoT hace referencia a los sistemas de dispositivos físicos que reciben y transfieren datos a través de las redes inalámbricas, con poca intervención humana. Es posible gracias a la integración de dispositivos informáticos en todo tipo de objetos. Por ejemplo, un termostato inteligente (es decir, que utiliza el IoT) recibe los datos de la ubicación de su automóvil inteligente, y ambos dispositivos conectados le permiten ajustar la temperatura de su casa a pesar de que no se encuentre allí. El funcionamiento de los sistemas de IoT tradicionales consiste en enviar, recibir y analizar los datos de forma permanente en un ciclo de retroalimentación. Según el tipo de tecnología de IoT, las personas o los sistemas de inteligencia artificial y aprendizaje automático (IA/ML) pueden analizar estos datos casi de inmediato o durante cierto tiempo. Por ejemplo, para saber cuándo es ideal controlar el termostato antes de volver a casa, el sistema de IoT puede conectarse a la API de Google Maps y, de este modo, obtener información actual sobre el tráfico en el área. Además, puede utilizar los datos a largo plazo del automóvil para conocer sus hábitos de conducción. Por otra parte, las empresas de servicios públicos tienen la posibilidad de analizar los datos de IoT de los clientes con termostatos inteligentes para optimizar el sistema en general.",
+
+            "Entre sus aplicaciones podemos encontrar las siguientes: Chatbots: Se trata de un software que simula mantener una conversación con las personas, éste provee respuestas automáticas a través de la inteligencia artificial y es principalmente utilizado por centros de atención al cliente. Wearables: Son computadores inteligentes que utilizamos a modo de accesorios, entre los que destacan relojes, pulseras y gafas. Entre sus funciones está el alertarnos de nuestros signos vitales o brindarnos información sobre nuestro entorno por medio de la realidad aumentada. Salud: El término IoMT o IOT en medicina, es una tecnología que conecta los aparatos electrónicos de uso médico y farmacéutico entre sí. Esto permite que los pacientes puedan evitar el acudir a consulta de manera presencial, ya que los dispositivos se ocupan de la gestión y manipulación de los datos al enviarlos directamente al médico. Agricultura: Los agricultores han implementado diversas tecnologías de riego apoyadas en la utilización de aspersores inteligentes, acceso a la información meteorológica para determinar aspectos sobre los sembradíos y a repositorios de datos sobre las condiciones del suelo, que les ayuda a tomar decisiones sobre el uso de herbicidas. Sector industrial y manufacturero: La incorporación del IoT en la industria permite una eficiencia en los procesos y operaciones, mejora la seguridad de los empleados y contribuye a disminuir los accidentes laborales, así como la reducción de costos. Ciudades Inteligentes: El internet de las cosas ayuda a la transformación de las ciudades, resolviendo problemas de la vida real que los ciudadanos enfrentan cada día, como la congestión vial, la delincuencia y la contaminación. Movilidad: Vehículos equipados con acceso a internet, sensores de movimiento y cámaras permiten no sólo poder realizar una conducción más eficiente, sino también dar apoyo al conductor si se necesita una reparación, lo que evita la necesidad de acudir a un taller.",
+
+            "Ventajas del internet de las cosas: <br> Capacidad de conectarse a la red: La principal ventaja que ofrece el IoT es la capacidad de conectarse a Internet y, en consecuencia, tener acceso a todo lo que esto supone. Por ejemplo, cuando una televisión se conecta a la red para obtener los contenidos que vamos a ver. Intercambio de información de forma rápida y en tiempo real: Otra de las ventajas del IoT es que el intercambio de información se realiza de forma rápida y en tiempo real, lo que tiene muchas aplicaciones diferentes. Por ejemplo, en el sector de la seguridad. Gracias al IoT, se avisa a la policía o a los bomberos de forma automática cuando se detecta un problema de intrusión o un incendio en un espacio controlado. Ahorro energético: Otra ventaja muy importante que ofrece el IoT es el ahorro energético. Al monitorizar y automatizar los procesos, estos se llevan a cabo de forma mucho más controlada, lo que repercute en un menor consumo y, en consecuencia, en un mayor ahorro. El mejor ejemplo lo encontramos en la automatización de la climatización de los hogares y otros inmuebles. Cuando la climatización es controlada por dispositivos con IoT, se sincronizan con la temperatura y condiciones climatológicas exteriores, lo que conlleva un uso más adecuado de los recursos disponibles. Procesos más sostenibles: De la misma forma que el IoT permite un mayor ahorro al favorecer un mejor uso de los recursos, esto también conlleva una mayor sostenibilidad, ya que se utilizan solo los recursos que son realmente necesarios. El mejor ejemplo, de nuevo, lo encontramos en la climatización. Comunicación con el entorno directo: Otra de las ventajas es que el IoT permite la comunicación directa con el entorno más cercano. Por ejemplo, podemos abrir y cerrar puertas desde nuestro teléfono celular, o podemos recibir información útil dependiendo de cuál sea nuestra posición geolocalizada en cada momento." ,
+
+            "Desventajas del internet de las cosas: <br> La información no se encuentra cifrada: Una de las principales desventajas que ofrece el IoT es que la información no está cifrada y, en consecuencia, resulta muy sencillo acceder a ella. Esto puede implicar problemas relacionados con la seguridad digital, ya que el sistema podría ser hackeado. Por ejemplo, para el robo de datos. Requiere de una inversión previa en tecnología: Otra de las desventajas del IoT es que requiere una inversión previa para que pueda funcionar. Es decir, necesitamos adquirir los dispositivos con la tecnología necesaria para que se puedan conectar a Internet. Reducción de la intimidad: Otro de los problemas que puede llegar a plantear el uso de objetos con tecnología IoT es la reducción de la intimidad. Estos dispositivos abren espacios privados al espacio público, por lo que pueden llegar a plantearse problemas serios en este sentido. Por ejemplo, mediante la instalación de sistemas de seguridad como cámaras de vigilancia que no sean usadas de forma correcta. Brecha tecnológica: Así mismo, otra de las desventajas que plantea el uso de la tecnología IoT es que profundiza en la brecha digital. Es decir, el problema de qué personas sí que pueden acceder a esta tecnología y cuáles no. Esto es especialmente notable cuando se compara el acceso a Internet entre distintos países, así como entre entornos urbanos y el medio rural. Falta de compatibilidad: Finalmente, otra de las principales desventajas de la tecnología IoT es la falta de compatibilidad entre algunos dispositivos. Los sistemas IoT no están estandarizados y, en consecuencia, se podría dar el caso en el que determinados dispositivos no puedan trabajar de forma conjunta entre sí a pesar de estar diseñados para la misma función."
+        ]
+    },
+    "Tema2": {
+        "NombreTema": "Computacion de la Nube",
+
+        "WhatisThis": "None data(Whstisthis)",
+
+        "DatasAdd" : 
+        [
+            "DatasAdd[0] (Cuales son los servicios)",
+
+            "DatasAdd[1] (Ventajas)",
+
+            "DatasAdd[2] (Desventajas)",
+
+            "DatasAdd[3] (Aplicaciones)"
+        ]
+    },
+    "Tema3": {
+        "NombreTema": "Convergencia Digital",
+
+        "WhatisThis": "None data(Whstisthis)",
+
+        "DatasAdd" : 
+        [
+            "DatasAdd[0] (Como se realiza)",
+
+            "DatasAdd[1] (Ejemplos)",
+
+            "DatasAdd[2] (Ventajas)" ,
+
+            "DatasAdd[3] (Desventajas)"
+        ]
+    }
+}
